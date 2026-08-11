@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T16:11:30Z",
-  "duration_seconds": 124.8,
-  "attributes": "live",
+  "generated_at": "2026-08-11T16:28:30Z",
+  "duration_seconds": 110.1,
+  "attributes": "cached",
   "products_in_cache": 406,
   "excluded": {
     "The Archive": 95,
