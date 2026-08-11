@@ -1,4 +1,4 @@
-# MORJAS – Meta catalog feeds
+# Meta catalog feeds
 
 Generates the four files Meta fetches to build the product catalog. Runs hourly
 on GitHub Actions; output is served by GitHub Pages from `docs/`.
@@ -26,7 +26,7 @@ Two things Centra's feed cannot express are applied here:
   marked Signs of Wear) and `Shoe Care Collection` (36). Collection exists only
   in the Centra API, never in the feed.
 - **Title enrichment** – the localised *Color Swatch* attribute is appended, so
-  fifteen products no longer all read "MORJAS The Penny Loafer".
+  fifteen products no longer all read "The Penny Loafer".
 
 ## Operating notes
 

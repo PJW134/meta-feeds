@@ -1,4 +1,4 @@
-"""MORJAS - Meta catalog feed generator.
+"""Meta catalog feed generator.
 
 Builds four files into docs/ , which GitHub Pages serves at stable URLs that
 Meta fetches hourly:
