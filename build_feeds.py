@@ -25,7 +25,7 @@ Environment: CENTRA_API_URL, CENTRA_API_TOKEN  (GitHub repo secrets)
 Standard library only - no dependencies to install or keep up to date.
 """
 
-import csv, json, os, re, sys, time, urllib.request, urllib.error
+import csv, html, json, os, re, sys, time, urllib.request, urllib.error
 from datetime import datetime, timezone
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -74,10 +74,23 @@ def load_market(market):
     for it in re.findall(r"<item>(.*?)</item>", xml, re.S):
         d = {}
         for f in FIELDS:
-            m = re.search(r"<(?:g:)?%s>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</(?:g:)?%s>" % (f, f), it, re.S)
-            d[f] = m.group(1).strip() if m else ""
+            m = re.search(r"<(?:g:)?%s>(<!\[CDATA\[)?(.*?)(?:\]\]>)?</(?:g:)?%s>" % (f, f), it, re.S)
+            if not m:
+                d[f] = ""
+                continue
+            v = m.group(2).strip()
+            # Text outside CDATA is entity-encoded. Meta matches
+            # google_product_category against Google's taxonomy literally, so
+            # "Apparel &amp; Accessories &gt; Shoes" would fail to resolve.
+            # CDATA content is already literal - leave it alone.
+            d[f] = v if m.group(1) else html.unescape(v)
         m = re.match(r"p(\d+)-v(\d+)-s", d["id"])
         d["p"] = m.group(1) if m else None
+        # Centra still emits a market-scoped group id ("1/se-p7825"). Derive it
+        # from the canonical id instead, so grouping never depends on which
+        # market the primary feed was generated from.
+        if d["p"]:
+            d["item_group_id"] = "p" + d["p"]
         # Centra ships 1 image_link + 2-10 additional. DFW - and therefore every
         # ad running today - uses additional[0] as the main image. Keep parity and
         # expose the rest to Meta.
