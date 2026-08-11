@@ -8,7 +8,8 @@ on:
   workflow_dispatch:        # lets you run it by hand from the Actions tab
   push:
     paths:
-      - "build_feeds.py"    # rebuild immediately when the rules change
+      - "build_feeds.py"                    # rebuild when the rules change
+      - ".github/workflows/build-feeds.yml"
 
 permissions:
   contents: write
@@ -43,5 +44,8 @@ jobs:
             echo "no change"
           else
             git commit -m "feeds: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            # Re-runs check out the original commit, and the hourly schedule can
+            # race a manual run, so rebase onto whatever main is now before pushing.
+            git pull --rebase --autostash origin main
+            git push origin HEAD:main
           fi
