@@ -36,7 +36,16 @@ CACHE = os.path.join(ROOT, "cache", "attributes.json")
 FEED_BASE = "https://morjas.centra.com/plugin-export/meta-feed-test/{}"
 BASE_MARKET = "se"
 COUNTRIES = ["de", "at", "fr", "us", "gb", "dk", "no", "nl", "ch", "jp", "au"]
-LOCALES = {"de_XX": ("de", "DE"), "fr_XX": ("fr", "FR")}
+# Meta wants a *locale* in the override column of a language feed, not a bare
+# language. de_XX is rejected outright ("Override value isn't supported"), while
+# fr_XX is accepted - an inconsistency on Meta's side, so each feed keeps
+# whatever it has been proven to accept. Emitting every German locale we sell
+# into also gets AT and CH German titles, which de_XX would only have matched.
+# File names are kept stable so the configured feed URLs keep working.
+LOCALES = {
+    "de_XX": {"market": "de", "lang": "DE", "overrides": ["de_DE", "de_AT", "de_CH"]},
+    "fr_XX": {"market": "fr", "lang": "FR", "overrides": ["fr_XX"]},
+}
 EXCLUDE_COLLECTIONS = {"The Archive", "Shoe Care Collection"}
 LANGUAGE_IDS = [6, 7]                     # 6 = German, 7 = French
 SWATCH_ATTRIBUTE = "Color Swatch"
@@ -220,7 +229,7 @@ def main():
         rec = cache.get(str(pid), {})
         return rec.get(lang) or rec.get("EN") or ""
 
-    for m in COUNTRIES + [v[0] for v in LOCALES.values()]:
+    for m in COUNTRIES + [v["market"] for v in LOCALES.values()]:
         if m not in markets:
             markets[m] = load_market(m)
 
@@ -253,13 +262,15 @@ def main():
 
     # ---- language ------------------------------------------------------------
     lang_rows = {}
-    for locale, (mk, code) in LOCALES.items():
+    for name, cfg in LOCALES.items():
         rows = []
-        for r in markets[mk]:
+        for r in markets[cfg["market"]]:
             if r["id"] not in keep_ids:
                 continue
-            rows.append([r["id"], locale, enrich(r["title"], swatch(r["p"], code)), r["description"]])
-        lang_rows[locale] = rows
+            title = enrich(r["title"], swatch(r["p"], cfg["lang"]))
+            for override in cfg["overrides"]:
+                rows.append([r["id"], override, title, r["description"]])
+        lang_rows[name] = rows
 
     # ---- write (guarded) -----------------------------------------------------
     log("Writing")

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:16:24Z",
-  "duration_seconds": 118.3,
+  "generated_at": "2026-08-11T18:53:19Z",
+  "duration_seconds": 113.3,
   "attributes": "live",
   "products_in_cache": 406,
   "excluded": {
@@ -10,7 +10,7 @@
   "rows": {
     "primary": 275,
     "country": 3025,
-    "de_XX": 275,
+    "de_XX": 825,
     "fr_XX": 275
   }
 }
