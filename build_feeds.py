@@ -37,13 +37,16 @@ FEED_BASE = "https://morjas.centra.com/plugin-export/meta-feed-test/{}"
 BASE_MARKET = "se"
 COUNTRIES = ["de", "at", "fr", "us", "gb", "dk", "no", "nl", "ch", "jp", "au"]
 # Meta wants a *locale* in the override column of a language feed, not a bare
-# language. de_XX is rejected outright ("Override value isn't supported"), while
-# fr_XX is accepted - an inconsistency on Meta's side, so each feed keeps
-# whatever it has been proven to accept. Emitting every German locale we sell
-# into also gets AT and CH German titles, which de_XX would only have matched.
+# language, and each feed accepts exactly one. Proven by upload result:
+#   de_XX  -> rejected outright ("Override value isn't supported")
+#   de_DE  -> accepted;  de_AT / de_CH rejected by the same feed (550 invalid)
+#   fr_XX  -> accepted (Meta is not consistent here; leave what works alone)
+# Decision: German in Germany, French in French-speaking markets, English
+# everywhere else. AT/CH German speakers get the English title with the English
+# swatch - correct prices still come from the country feed.
 # File names are kept stable so the configured feed URLs keep working.
 LOCALES = {
-    "de_XX": {"market": "de", "lang": "DE", "overrides": ["de_DE", "de_AT", "de_CH"]},
+    "de_XX": {"market": "de", "lang": "DE", "overrides": ["de_DE"]},
     "fr_XX": {"market": "fr", "lang": "FR", "overrides": ["fr_XX"]},
 }
 EXCLUDE_COLLECTIONS = {"The Archive", "Shoe Care Collection"}
