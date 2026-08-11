@@ -1,0 +1,47 @@
+name: Build Meta feeds
+
+on:
+  schedule:
+    # :17 past the hour - GitHub queues scheduled jobs, and the top of the hour
+    # is the most congested slot.
+    - cron: "17 * * * *"
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - "build_feeds.py"    # rebuild immediately when the rules change
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate feeds
+        env:
+          CENTRA_API_URL: ${{ secrets.CENTRA_API_URL }}
+          CENTRA_API_TOKEN: ${{ secrets.CENTRA_API_TOKEN }}
+        run: python build_feeds.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "morjas-feeds"
+          git config user.email "actions@github.com"
+          git add docs cache
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "feeds: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
