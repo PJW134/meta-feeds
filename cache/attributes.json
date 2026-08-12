@@ -2284,11 +2284,47 @@
 "FR": "Cuir Grainé Marron",
 "collection": "Men Accessories Collection"
 },
+"7815": {
+"DE": "Braunes Wildleder",
+"EN": "Brown Suede",
+"FR": "Daim Marron",
+"collection": "Wom Collection"
+},
+"7816": {
+"DE": "Schwarzes Nappaleder",
+"EN": "Black Nappa",
+"FR": "Nappa Noir",
+"collection": "Wom Collection"
+},
+"7817": {
+"DE": "Elfenbein Nappaleder",
+"EN": "Ivory Nappa",
+"FR": "Nappa Ivoire",
+"collection": "Wom Collection"
+},
+"7818": {
+"DE": "Braunes Nappaleder",
+"EN": "Brown Nappa",
+"FR": "Nappa Marron",
+"collection": "Wom Collection"
+},
+"7819": {
+"DE": "Schwarzes Nappaleder",
+"EN": "Black Nappa",
+"FR": "Nappa Noir",
+"collection": "Wom Collection"
+},
 "782": {
 "DE": "Hellgraues Wildleder",
 "EN": "Light Grey Suede",
 "FR": "Daim Beige Clair",
 "collection": "Men Collection"
+},
+"7820": {
+"DE": "Schwarzes Geprägtes Leder",
+"EN": "Black Embossed",
+"FR": "Cuir Noir Embossé",
+"collection": "Wom Collection"
 },
 "7821": {
 "DE": "Braunes Nappaleder",

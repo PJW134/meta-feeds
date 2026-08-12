@@ -1,42 +1,17 @@
 {
-  "generated_at": "2026-08-12T08:40:06Z",
-  "duration_seconds": 112.8,
+  "generated_at": "2026-08-12T08:45:04Z",
+  "duration_seconds": 117.0,
   "attributes": "live",
-  "products_in_cache": 406,
+  "products_in_cache": 412,
   "excluded": {
     "The Archive": 95,
     "Shoe Care Collection": 36
   },
   "rows": {
-    "primary": 275,
-    "country": 3025,
-    "de_XX": 275,
-    "fr_XX": 275
+    "primary": 281,
+    "country": 3091,
+    "de_XX": 281,
+    "fr_XX": 281
   },
-  "feed_gap": [
-    {
-      "id": "7815",
-      "name": "The Verona Sandal"
-    },
-    {
-      "id": "7816",
-      "name": "The Verona Sandal"
-    },
-    {
-      "id": "7817",
-      "name": "The Sandalette"
-    },
-    {
-      "id": "7818",
-      "name": "The Sandalette"
-    },
-    {
-      "id": "7819",
-      "name": "The Sandalette"
-    },
-    {
-      "id": "7820",
-      "name": "The Flat Slingback"
-    }
-  ]
+  "feed_gap": []
 }
