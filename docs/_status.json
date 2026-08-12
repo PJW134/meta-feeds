@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T06:43:33Z",
-  "duration_seconds": 112.8,
+  "generated_at": "2026-08-12T08:23:14Z",
+  "duration_seconds": 115.0,
   "attributes": "live",
   "products_in_cache": 406,
   "excluded": {
@@ -12,5 +12,47 @@
     "country": 3025,
     "de_XX": 275,
     "fr_XX": 275
-  }
+  },
+  "feed_gap": [
+    {
+      "id": "2465",
+      "name": "The Archive - The Espadrille"
+    },
+    {
+      "id": "2471",
+      "name": "The Archive - The Espadrille"
+    },
+    {
+      "id": "3160",
+      "name": "The Starter Shoe Care Kit - Leather - Black"
+    },
+    {
+      "id": "3161",
+      "name": "The Starter Shoe Care Kit - Suede"
+    },
+    {
+      "id": "7815",
+      "name": "The Verona Sandal"
+    },
+    {
+      "id": "7816",
+      "name": "The Verona Sandal"
+    },
+    {
+      "id": "7817",
+      "name": "The Sandalette"
+    },
+    {
+      "id": "7818",
+      "name": "The Sandalette"
+    },
+    {
+      "id": "7819",
+      "name": "The Sandalette"
+    },
+    {
+      "id": "7820",
+      "name": "The Flat Slingback"
+    }
+  ]
 }

@@ -171,6 +171,38 @@ def build_cache(product_ids):
     return out
 
 
+def scan_active_products():
+    """Every ACTIVE product with an ACTIVE display in the retail store (id 1).
+
+    Used as a tripwire: the Centra feed plugin exports a STATIC folder
+    selection, so products in folders created after the plugin was last saved
+    silently never reach the feed (Verona Sandal / Sandalette / Flat Slingback
+    were invisible to ads for ~6 months this way). Comparing this list against
+    what the plugin actually exported turns that silent gap into an alarm in
+    _status.json.
+    """
+    out, cursor = [], None
+    while True:
+        after = ', after: "%s"' % cursor if cursor else ""
+        q = ('query { productConnection(first: 200%s, where: { status: ACTIVE }) '
+             '{ pageInfo { hasNextPage endCursor } edges { node { id name '
+             'collection { name } '
+             'displays(limit: 5) { status store { id } } } } } }' % after)
+        data = gql(q)["productConnection"]
+        for e in data["edges"]:
+            n = e["node"]
+            coll = (n.get("collection") or {}).get("name", "")
+            if coll in EXCLUDE_COLLECTIONS:
+                continue  # we drop these ourselves; a plugin gap here is not actionable
+            if any(d.get("status") == "ACTIVE" and str((d.get("store") or {}).get("id")) == "1"
+                   for d in (n.get("displays") or [])):
+                out.append((str(n["id"]), n["name"]))
+        if not data["pageInfo"]["hasNextPage"]:
+            break
+        cursor = data["pageInfo"]["endCursor"]
+    return out
+
+
 def load_cache():
     if os.path.exists(CACHE):
         with open(CACHE, encoding="utf-8") as f:
@@ -289,6 +321,23 @@ def main():
                                    ["id", "override", "title", "description"],
                                    rows, MIN_LANG)
 
+    # ---- feed-gap tripwire -----------------------------------------------
+    # Products Centra says are live but the plugin export doesn't contain.
+    # Non-fatal: the feed is still valid; the gap is a Centra-config problem
+    # that a human must fix in the plugin's folder selection.
+    gap = "unchecked (Centra API unavailable)"
+    if cache_source == "live":
+        try:
+            feed_pids = {r["p"] for r in markets[BASE_MARKET] if r["p"]}
+            missing = [{"id": pid, "name": name}
+                       for pid, name in scan_active_products() if pid not in feed_pids]
+            gap = missing
+            if missing:
+                log("!! FEED GAP: %d active retail products missing from the plugin export: %s"
+                    % (len(missing), ", ".join(m["name"] for m in missing[:10])))
+        except Exception as e:
+            gap = "check failed: %s" % e
+
     status = {
         "generated_at": started.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "duration_seconds": round((datetime.now(timezone.utc) - started).total_seconds(), 1),
@@ -296,6 +345,7 @@ def main():
         "products_in_cache": len(cache),
         "excluded": dropped,
         "rows": counts,
+        "feed_gap": gap,
     }
     with open(os.path.join(DOCS, "_status.json"), "w", encoding="utf-8") as f:
         json.dump(status, f, indent=2, ensure_ascii=False)
