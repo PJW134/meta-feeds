@@ -216,13 +216,12 @@ p3115-v4796-s,DE,20 EUR,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,DE,20 EUR,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,DE,20 EUR,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,DE,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,DE,390 EUR,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,DE,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -231,16 +230,18 @@ p7718-v9473-s,DE,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,DE,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,DE,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,DE,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,DE,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,DE,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,DE,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,DE,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,DE,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,DE,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,DE,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,DE,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,DE,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,DE,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,DE,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,DE,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,DE,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,DE,150 EUR,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,DE,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,DE,150 EUR,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,DE,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,DE,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -263,11 +264,9 @@ p7815-v9597-s,DE,300 EUR,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,DE,420 EUR,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,DE,420 EUR,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,DE,420 EUR,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,DE,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,DE,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,DE,20 EUR,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,DE,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,DE,20 EUR,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,DE,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,DE,140 EUR,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,DE,140 EUR,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,DE,140 EUR,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -275,6 +274,7 @@ p7742-v9497-s,DE,160 EUR,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,DE,160 EUR,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,DE,160 EUR,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,DE,160 EUR,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,DE,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,DE,440 EUR,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,DE,550 EUR,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -497,13 +497,12 @@ p3115-v4796-s,AT,20 EUR,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,AT,20 EUR,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,AT,20 EUR,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,AT,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,AT,390 EUR,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,AT,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -512,16 +511,18 @@ p7718-v9473-s,AT,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,AT,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,AT,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,AT,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,AT,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,AT,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,AT,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,AT,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,AT,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,AT,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,AT,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,AT,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,AT,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,AT,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,AT,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,AT,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,AT,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,AT,150 EUR,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,AT,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,AT,150 EUR,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,AT,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,AT,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -544,11 +545,9 @@ p7815-v9597-s,AT,300 EUR,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,AT,420 EUR,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,AT,420 EUR,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,AT,420 EUR,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,AT,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,AT,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,AT,20 EUR,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,AT,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,AT,20 EUR,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,AT,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,AT,140 EUR,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,AT,140 EUR,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,AT,140 EUR,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -556,6 +555,7 @@ p7742-v9497-s,AT,160 EUR,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,AT,160 EUR,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,AT,160 EUR,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,AT,160 EUR,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,AT,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,AT,440 EUR,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,AT,550 EUR,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -778,13 +778,12 @@ p3115-v4796-s,FR,20 EUR,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,FR,20 EUR,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,FR,20 EUR,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,FR,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,FR,390 EUR,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,FR,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -793,16 +792,18 @@ p7718-v9473-s,FR,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,FR,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,FR,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,FR,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,FR,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,FR,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,FR,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,FR,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,FR,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,FR,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,FR,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,FR,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,FR,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,FR,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,FR,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,FR,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,FR,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,FR,150 EUR,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,FR,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,FR,150 EUR,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,FR,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,FR,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -825,11 +826,9 @@ p7815-v9597-s,FR,300 EUR,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,FR,420 EUR,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,FR,420 EUR,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,FR,420 EUR,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,FR,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,FR,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,FR,20 EUR,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,FR,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,FR,20 EUR,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,FR,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,FR,140 EUR,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,FR,140 EUR,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,FR,140 EUR,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -837,6 +836,7 @@ p7742-v9497-s,FR,160 EUR,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,FR,160 EUR,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,FR,160 EUR,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,FR,160 EUR,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,FR,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,FR,440 EUR,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,FR,550 EUR,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -1059,13 +1059,12 @@ p3115-v4796-s,US,20 USD,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,US,20 USD,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,US,20 USD,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,US,470 USD,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,US,470 USD,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,US,470 USD,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -1074,16 +1073,18 @@ p7718-v9473-s,US,450 USD,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,US,450 USD,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,US,450 USD,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,US,450 USD,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,US,330 USD,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,US,330 USD,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,US,330 USD,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,US,330 USD,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,US,330 USD,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,US,540 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,US,540 USD,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,US,540 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,US,540 USD,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,US,540 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,US,180 USD,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,US,550 USD,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,US,550 USD,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,US,180 USD,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,US,180 USD,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,US,180 USD,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,US,380 USD,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,US,380 USD,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -1106,11 +1107,9 @@ p7815-v9597-s,US,350 USD,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,US,460 USD,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,US,460 USD,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,US,460 USD,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,US,550 USD,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,US,550 USD,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,US,20 USD,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,US,20 USD,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,US,20 USD,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,US,20 USD,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,US,150 USD,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,US,150 USD,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,US,150 USD,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -1118,6 +1117,7 @@ p7742-v9497-s,US,170 USD,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,US,170 USD,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,US,170 USD,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,US,170 USD,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,US,380 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,US,490 USD,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,US,650 USD,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -1340,13 +1340,12 @@ p3115-v4796-s,GB,20 GBP,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,GB,20 GBP,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,GB,20 GBP,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,GB,370 GBP,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,GB,370 GBP,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,GB,370 GBP,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -1355,16 +1354,18 @@ p7718-v9473-s,GB,350 GBP,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,GB,350 GBP,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,GB,350 GBP,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,GB,350 GBP,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,GB,250 GBP,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,GB,250 GBP,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,GB,250 GBP,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,GB,250 GBP,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,GB,250 GBP,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,GB,440 GBP,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,GB,440 GBP,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,GB,440 GBP,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,GB,440 GBP,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,GB,440 GBP,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,GB,140 GBP,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,GB,450 GBP,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,GB,450 GBP,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,GB,140 GBP,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,GB,140 GBP,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,GB,140 GBP,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,GB,300 GBP,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,GB,300 GBP,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -1387,11 +1388,9 @@ p7815-v9597-s,GB,270 GBP,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,GB,380 GBP,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,GB,380 GBP,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,GB,380 GBP,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,GB,450 GBP,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,GB,450 GBP,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,GB,20 GBP,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,GB,20 GBP,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,GB,20 GBP,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,GB,20 GBP,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,GB,120 GBP,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,GB,120 GBP,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,GB,120 GBP,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -1399,6 +1398,7 @@ p7742-v9497-s,GB,140 GBP,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,GB,140 GBP,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,GB,140 GBP,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,GB,140 GBP,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,GB,300 GBP,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,GB,400 GBP,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,GB,510 GBP,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -1621,13 +1621,12 @@ p3115-v4796-s,DK,150 DKK,https://www.morjas.com/product/the-wool-sock-navy-ribbe
 p3116-v4797-s,DK,150 DKK,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,DK,150 DKK,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,DK,2900 DKK,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,DK,2900 DKK,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,DK,2900 DKK,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -1636,16 +1635,18 @@ p7718-v9473-s,DK,2700 DKK,https://www.morjas.com/product/women-the-penny-loafer-
 p3673-v5428-s,DK,2700 DKK,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,DK,2700 DKK,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,DK,2700 DKK,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,DK,1900 DKK,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,DK,1900 DKK,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,DK,1900 DKK,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,DK,1900 DKK,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,DK,1900 DKK,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,DK,3400 DKK,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,DK,3400 DKK,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,DK,3400 DKK,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,DK,3400 DKK,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,DK,3400 DKK,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,DK,1100 DKK,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,DK,3500 DKK,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,DK,3500 DKK,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,DK,1100 DKK,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,DK,1100 DKK,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,DK,1100 DKK,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,DK,2300 DKK,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,DK,2300 DKK,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -1668,11 +1669,9 @@ p7815-v9597-s,DK,2000 DKK,https://www.morjas.com/product/women-the-verona-sandal
 p7721-v9476-s,DK,2900 DKK,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,DK,2900 DKK,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,DK,2900 DKK,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,DK,3500 DKK,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,DK,3500 DKK,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,DK,150 DKK,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,DK,150 DKK,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,DK,150 DKK,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,DK,150 DKK,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,DK,1000 DKK,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,DK,1000 DKK,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,DK,1000 DKK,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -1680,6 +1679,7 @@ p7742-v9497-s,DK,1200 DKK,https://www.morjas.com/product/women-the-belt-black-na
 p7741-v9496-s,DK,1200 DKK,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,DK,1200 DKK,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,DK,1200 DKK,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,DK,2300 DKK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,DK,3100 DKK,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,DK,4000 DKK,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -1902,13 +1902,12 @@ p3115-v4796-s,NO,220 NOK,https://www.morjas.com/product/the-wool-sock-navy-ribbe
 p3116-v4797-s,NO,220 NOK,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,NO,220 NOK,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,NO,4200 NOK,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,NO,4200 NOK,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,NO,4200 NOK,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -1917,16 +1916,18 @@ p7718-v9473-s,NO,3900 NOK,https://www.morjas.com/product/women-the-penny-loafer-
 p3673-v5428-s,NO,3900 NOK,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,NO,3900 NOK,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,NO,3900 NOK,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,NO,2800 NOK,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,NO,2800 NOK,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,NO,2800 NOK,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,NO,2800 NOK,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,NO,2800 NOK,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,NO,5000 NOK,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,NO,5000 NOK,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,NO,5000 NOK,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,NO,5000 NOK,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,NO,5000 NOK,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,NO,1700 NOK,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,NO,5100 NOK,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,NO,5100 NOK,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,NO,1700 NOK,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,NO,1700 NOK,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,NO,1700 NOK,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,NO,3400 NOK,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,NO,3400 NOK,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -1949,11 +1950,9 @@ p7815-v9597-s,NO,3000 NOK,https://www.morjas.com/product/women-the-verona-sandal
 p7721-v9476-s,NO,4200 NOK,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,NO,4200 NOK,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,NO,4200 NOK,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,NO,5100 NOK,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,NO,5100 NOK,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,NO,220 NOK,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,NO,220 NOK,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,NO,220 NOK,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,NO,220 NOK,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,NO,1500 NOK,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,NO,1500 NOK,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,NO,1500 NOK,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -1961,6 +1960,7 @@ p7742-v9497-s,NO,1700 NOK,https://www.morjas.com/product/women-the-belt-black-na
 p7741-v9496-s,NO,1700 NOK,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,NO,1700 NOK,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,NO,1700 NOK,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,NO,3400 NOK,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,NO,4400 NOK,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,NO,5700 NOK,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -2183,13 +2183,12 @@ p3115-v4796-s,NL,20 EUR,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,NL,20 EUR,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,NL,20 EUR,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,NL,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,NL,390 EUR,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,NL,390 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -2198,16 +2197,18 @@ p7718-v9473-s,NL,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,NL,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,NL,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,NL,370 EUR,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,NL,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,NL,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,NL,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,NL,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,NL,280 EUR,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,NL,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,NL,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,NL,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,NL,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,NL,480 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,NL,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,NL,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,NL,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,NL,150 EUR,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,NL,150 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,NL,150 EUR,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,NL,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,NL,350 EUR,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -2230,11 +2231,9 @@ p7815-v9597-s,NL,300 EUR,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,NL,420 EUR,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,NL,420 EUR,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,NL,420 EUR,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,NL,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,NL,490 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,NL,20 EUR,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,NL,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,NL,20 EUR,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,NL,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,NL,140 EUR,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,NL,140 EUR,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,NL,140 EUR,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -2242,6 +2241,7 @@ p7742-v9497-s,NL,160 EUR,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,NL,160 EUR,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,NL,160 EUR,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,NL,160 EUR,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,NL,350 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,NL,440 EUR,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,NL,550 EUR,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -2464,13 +2464,12 @@ p3115-v4796-s,CH,20 EUR,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,CH,20 EUR,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,CH,20 EUR,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,CH,370 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,CH,370 EUR,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,CH,370 EUR,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -2479,16 +2478,18 @@ p7718-v9473-s,CH,350 EUR,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,CH,350 EUR,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,CH,350 EUR,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,CH,350 EUR,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,CH,260 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,CH,260 EUR,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,CH,260 EUR,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,CH,260 EUR,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,CH,260 EUR,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,CH,440 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,CH,440 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,CH,440 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,CH,440 EUR,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,CH,440 EUR,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,CH,140 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,CH,450 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,CH,450 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,CH,140 EUR,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,CH,140 EUR,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,CH,140 EUR,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,CH,320 EUR,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,CH,320 EUR,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -2511,11 +2512,9 @@ p7815-v9597-s,CH,290 EUR,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,CH,400 EUR,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,CH,400 EUR,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,CH,400 EUR,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,CH,450 EUR,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,CH,450 EUR,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,CH,20 EUR,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,CH,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,CH,20 EUR,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,CH,20 EUR,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,CH,140 EUR,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,CH,140 EUR,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,CH,140 EUR,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -2523,6 +2522,7 @@ p7742-v9497-s,CH,160 EUR,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,CH,160 EUR,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,CH,160 EUR,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,CH,160 EUR,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,CH,330 EUR,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,CH,420 EUR,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,CH,510 EUR,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -2745,13 +2745,12 @@ p3115-v4796-s,JP,20 USD,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,JP,20 USD,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,JP,20 USD,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,JP,410 USD,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,JP,410 USD,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,JP,410 USD,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -2760,16 +2759,18 @@ p7718-v9473-s,JP,400 USD,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,JP,400 USD,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,JP,400 USD,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,JP,400 USD,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,JP,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,JP,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,JP,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,JP,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,JP,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,JP,480 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,JP,480 USD,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,JP,480 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,JP,480 USD,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,JP,480 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,JP,160 USD,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,JP,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,JP,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,JP,160 USD,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,JP,160 USD,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,JP,160 USD,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,JP,330 USD,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,JP,330 USD,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -2792,11 +2793,9 @@ p7815-v9597-s,JP,300 USD,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,JP,410 USD,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,JP,410 USD,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,JP,410 USD,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,JP,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,JP,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,JP,20 USD,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,JP,20 USD,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,JP,20 USD,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,JP,20 USD,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,JP,130 USD,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,JP,130 USD,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,JP,130 USD,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -2804,6 +2803,7 @@ p7742-v9497-s,JP,150 USD,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,JP,150 USD,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,JP,150 USD,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,JP,150 USD,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,JP,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,JP,440 USD,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,JP,580 USD,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
@@ -3026,13 +3026,12 @@ p3115-v4796-s,AU,20 USD,https://www.morjas.com/product/the-wool-sock-navy-ribbed
 p3116-v4797-s,AU,20 USD,https://www.morjas.com/product/the-wool-sock-mid-brown-ribbed-mid-calf,out of stock
 p3117-v4798-s,AU,20 USD,https://www.morjas.com/product/the-wool-sock-ecru-ribbed-mid-calf,out of stock
 p3668-v5423-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-black-nappa,in stock
-p3667-v5422-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
-p7716-v9471-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
-p7796-v9578-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p3665-v5420-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-greige-suede,in stock
 p3666-v5421-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-ivory-nappa,in stock
-p7822-v9606-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
+p3667-v5422-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-brown-nappa,in stock
+p7716-v9471-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-black-suede,in stock
 p7823-v9607-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-suede,in stock
+p7822-v9606-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-black-nappa,in stock
 p7800-v9582-s,AU,410 USD,https://www.morjas.com/product/women-the-soft-moc-brown-grain,in stock
 p7799-v9581-s,AU,410 USD,https://www.morjas.com/product/women-the-soft-moc-black-grain,in stock
 p7801-v9583-s,AU,410 USD,https://www.morjas.com/product/women-the-soft-moc-brown-suede,in stock
@@ -3041,16 +3040,18 @@ p7718-v9473-s,AU,400 USD,https://www.morjas.com/product/women-the-penny-loafer-b
 p3673-v5428-s,AU,400 USD,https://www.morjas.com/product/women-the-penny-loafer-burgundy-calf,in stock
 p3674-v5429-s,AU,400 USD,https://www.morjas.com/product/women-the-penny-loafer-ivory-calf,in stock
 p7717-v9472-s,AU,400 USD,https://www.morjas.com/product/women-the-penny-loafer-black-suede,in stock
-p3702-v5457-s,AU,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3703-v5458-s,AU,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-black-nappa,in stock
+p3702-v5457-s,AU,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-tan-nappa,in stock
 p3704-v5459-s,AU,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-brown-nappa,in stock
 p7788-v9570-s,AU,280 USD,https://www.morjas.com/product/women-the-paloma-sandal-taupe-grain,in stock
-p7723-v9478-s,AU,480 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7722-v9477-s,AU,480 USD,https://www.morjas.com/product/women-the-ankle-boot-black-nappa,in stock
+p7723-v9478-s,AU,480 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-nappa,in stock
 p7724-v9479-s,AU,480 USD,https://www.morjas.com/product/women-the-ankle-boot-black-suede,in stock
 p7725-v9480-s,AU,480 USD,https://www.morjas.com/product/women-the-ankle-boot-brown-suede,in stock
-p3698-v5453-s,AU,160 USD,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
+p7794-v9576-s,AU,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
+p7795-v9577-s,AU,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p3697-v5452-s,AU,160 USD,https://www.morjas.com/product/women-the-espadrille-taupe-suede,in stock
+p3698-v5453-s,AU,160 USD,https://www.morjas.com/product/women-the-espadrille-beige-suede,in stock
 p3699-v5454-s,AU,160 USD,https://www.morjas.com/product/women-the-espadrille-black-suede,in stock
 p7790-v9572-s,AU,330 USD,https://www.morjas.com/product/women-the-boat-shoe-brown-suede,in stock
 p7789-v9571-s,AU,330 USD,https://www.morjas.com/product/women-the-boat-shoe-black-grain,in stock
@@ -3073,11 +3074,9 @@ p7815-v9597-s,AU,300 USD,https://www.morjas.com/product/women-the-verona-sandal-
 p7721-v9476-s,AU,410 USD,https://www.morjas.com/product/women-the-pump-black-nappa,in stock
 p7719-v9474-s,AU,410 USD,https://www.morjas.com/product/women-the-pump-brown-suede,in stock
 p7720-v9475-s,AU,410 USD,https://www.morjas.com/product/women-the-pump-caramel-nappa,in stock
-p7794-v9576-s,AU,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-black-nappa,in stock
-p7795-v9577-s,AU,490 USD,https://www.morjas.com/product/women-the-stiletto-boot-truffle-suede,in stock
 p7752-v9510-s,AU,20 USD,https://www.morjas.com/product/women-the-sock-black,in stock
-p7751-v9509-s,AU,20 USD,https://www.morjas.com/product/women-the-sock-brown,in stock
 p3954-v5709-s,AU,20 USD,https://www.morjas.com/product/women-the-sock-off-white,in stock
+p7751-v9509-s,AU,20 USD,https://www.morjas.com/product/women-the-sock-brown,in stock
 p7740-v9495-s,AU,130 USD,https://www.morjas.com/product/women-the-belt-black-nappa-20-mm,in stock
 p7798-v9580-s,AU,130 USD,https://www.morjas.com/product/women-the-belt-tan-grain-20-mm,in stock
 p7797-v9579-s,AU,130 USD,https://www.morjas.com/product/women-the-belt-ivory-nappa-20-mm,in stock
@@ -3085,6 +3084,7 @@ p7742-v9497-s,AU,150 USD,https://www.morjas.com/product/women-the-belt-black-nap
 p7741-v9496-s,AU,150 USD,https://www.morjas.com/product/women-the-belt-brown-nappa-40-mm,in stock
 p7743-v9498-s,AU,150 USD,https://www.morjas.com/product/women-the-belt-black-suede-50-mm,in stock
 p7744-v9499-s,AU,150 USD,https://www.morjas.com/product/women-the-belt-brown-suede-50-mm,in stock
+p7796-v9578-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-ruby-nappa,in stock
 p7821-v9605-s,AU,330 USD,https://www.morjas.com/product/women-the-ballet-flat-leather-sole-brown-nappa,in stock
 p3670-v5425-s,AU,440 USD,https://www.morjas.com/product/women-the-slingback-dove-blue-suede,in stock
 p7753-v9511-s,AU,580 USD,https://www.morjas.com/product/women-the-chalet-boot-brown-pony-hair,in stock
