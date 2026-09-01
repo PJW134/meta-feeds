@@ -2359,11 +2359,23 @@
 "FR": "Daim Noir",
 "collection": "Men Collection"
 },
+"7828": {
+"DE": "Schwarzes Pony Hair",
+"EN": "Black Pony Hair",
+"FR": "Pony Hair Noir",
+"collection": "Wom Collection"
+},
 "783": {
 "DE": "Dunkelblaues Wildleder",
 "EN": "Navy Suede",
 "FR": "Daim Bleu Marine",
 "collection": "Men Collection"
+},
+"7834": {
+"DE": "Braunes Geprägtes Leder",
+"EN": "Brown Embossed",
+"FR": "Cuir Marron Embossé",
+"collection": "Wom Collection"
 },
 "785": {
 "DE": "Braunes Wildleder",
