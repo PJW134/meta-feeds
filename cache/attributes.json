@@ -1899,12 +1899,6 @@
 "FR": "Daim Marron",
 "collection": "Wom Accessories Collection"
 },
-"7745": {
-"DE": "Schwarzes Leder",
-"EN": "Black Leather",
-"FR": "Cuir Noir",
-"collection": "Men Collection"
-},
 "7746": {
 "DE": "Braunes Nubukleder & Braunes Grain-Leder",
 "EN": "Brown Nubuck & Brown Grain",
@@ -2346,6 +2340,12 @@
 "EN": "Black Suede",
 "FR": "Daim Noir",
 "collection": "Wom Collection"
+},
+"7824": {
+"DE": "Braunes Wildleder",
+"EN": "Brown Suede",
+"FR": "Daim Marron",
+"collection": "Men Collection"
 },
 "7825": {
 "DE": "Schwarzes Wildleder",
