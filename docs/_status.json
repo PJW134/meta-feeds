@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-08T16:30:05Z",
-  "duration_seconds": 95.1,
+  "generated_at": "2026-10-08T22:05:33Z",
+  "duration_seconds": 106.5,
   "attributes": "live",
-  "products_in_cache": 419,
+  "products_in_cache": 422,
   "excluded": {
     "The Archive": 95,
     "Shoe Care Collection": 38
   },
   "rows": {
-    "primary": 286,
-    "country": 3146,
-    "de_XX": 286,
-    "fr_XX": 286
+    "primary": 289,
+    "country": 3179,
+    "de_XX": 289,
+    "fr_XX": 289
   },
   "feed_gap": []
 }

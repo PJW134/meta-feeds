@@ -1905,6 +1905,12 @@
 "FR": "Nubuck Marron & Cuir Grainé Marron",
 "collection": "Men Collection"
 },
+"7747": {
+"DE": "Schwarzes Grain-Leder",
+"EN": "Black Grain",
+"FR": "Cuir Grainé Noir",
+"collection": "Men Collection"
+},
 "7748": {
 "DE": "Schwarzes Kalbsleder",
 "EN": "Black Calf",
@@ -2442,6 +2448,18 @@
 "EN": "Brown Flat",
 "FR": "Marron Plat",
 "collection": "Shoe Care Collection"
+},
+"796": {
+"DE": "Schwarzes Grain-Leder",
+"EN": "Black Grain",
+"FR": "Cuir Grainé Noir",
+"collection": "Men Collection"
+},
+"797": {
+"DE": "Braunes Grain-Leder",
+"EN": "Brown Grain",
+"FR": "Cuir Grainé Marron",
+"collection": "Men Collection"
 },
 "802": {
 "collection": "Shoe Care Collection"
