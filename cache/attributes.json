@@ -467,6 +467,24 @@
 "FR": "Cuir Lisse Marron",
 "collection": "Men Collection"
 },
+"3115": {
+"DE": "Dunkelblau Gerippt – Mittellang",
+"EN": "Navy Ribbed - Mid Calf",
+"FR": "Mi-Mollet – Bleu Marine Fil d'Écosse",
+"collection": "Men Accessories Collection"
+},
+"3116": {
+"DE": "Mittelbraun Gerippt – Mittellang",
+"EN": "Brown Ribbed - Mid Calf",
+"FR": "Mi-Mollet – Marron Moyen Fil d'Écosse",
+"collection": "Men Accessories Collection"
+},
+"3117": {
+"DE": "Ecru Gerippt – Mittellang",
+"EN": "Ecru Ribbed - Mid Calf",
+"FR": "Mi-Mollet – Écru Fil d'Écosse",
+"collection": "Men Accessories Collection"
+},
 "3118": {
 "DE": "Sandfarbenes Wildleder – Ungefüttert",
 "EN": "Sand Suede - Unlined",
@@ -2363,11 +2381,29 @@
 "FR": "Pony Hair Noir",
 "collection": "Wom Collection"
 },
+"7829": {
+"DE": "Burgundy Kalbsleder",
+"EN": "Burgundy Calf",
+"FR": "Cuir Lisse Bordeaux",
+"collection": "Wom Collection"
+},
 "783": {
 "DE": "Dunkelblaues Wildleder",
 "EN": "Navy Suede",
 "FR": "Daim Bleu Marine",
 "collection": "Men Collection"
+},
+"7830": {
+"DE": "Schwarzes Grain-Leder",
+"EN": "Black Grain",
+"FR": "Cuir Grainé Noir",
+"collection": "Wom Collection"
+},
+"7831": {
+"DE": "Schwarzes Wildleder",
+"EN": "Black Suede",
+"FR": "Daim Noir",
+"collection": "Wom Collection"
 },
 "7832": {
 "DE": "Schwarzes Kalbsleder",
@@ -2386,6 +2422,22 @@
 "EN": "Brown Embossed",
 "FR": "Cuir Marron Embossé",
 "collection": "Wom Collection"
+},
+"7835": {
+"DE": "Schwarzes Grain-Leder",
+"EN": "Black Grain",
+"FR": "Cuir Grainé Noir",
+"collection": "Wom Collection"
+},
+"7843": {
+"DE": "Schwarz Gerippt – Mittellang",
+"EN": "Black Ribbed - Mid Calf",
+"FR": "Mi-Mollet – Noir Fil d'Écosse",
+"collection": "Men Accessories Collection"
+},
+"7847": {
+"EN": "Grey Melange Ribbed - Mid Calf",
+"collection": "Men Accessories Collection"
 },
 "785": {
 "DE": "Braunes Wildleder",
